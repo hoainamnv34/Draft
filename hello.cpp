@@ -9,7 +9,7 @@ int main () {
     cout << "hello " << a;
     cin >> a;
     //chuyen branch
-    cout << "hello new branch";
+    cout << "hello new branch Hello";
 
     cout << "Dang branch 1";
     cout << "Dang branch 2";
